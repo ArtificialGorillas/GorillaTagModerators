@@ -1,6 +1,7 @@
 # GorillaTagModerators
 List of Gorilla Tag moderators and their UserID's<br />
-Made by lars#2469/0harmony<br />
+Made by lars#2469/0harmony <br />
+cody was here
 THIS LIST IS INCOMPLETE, AND WILL BE UPDATED OVERTIME
 RANKS & NAMES MIGHT BE INACCURATE!!!!!
 | UserID(s) | Name | Rank | Additional notes |
@@ -29,7 +30,7 @@ RANKS & NAMES MIGHT BE INACCURATE!!!!!
 |3727E8098E9A67CB|AA_rev2600|Another Axiom<br >Developer||
 |D62C339F67B1B2A3|Wisdom|Moderator|none|
 
-OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
+OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee) Cody was here...
 |UserID|Name|Notable For|Additional notes|
 |-------|----|-----------|----------------|
 |A04005517920EB0|K9|Youtuber|none|
@@ -61,3 +62,9 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |E93DEDEE4D6F0139|Boethiah|Youtuber|Rec-Room cc (has fp)
 |DAD8F5689EC1FC51<br >1EE38B9C6B26E3E0|MUSI/MEOWSCAS|nothing good|"alleged" pedo|
 |2ECA95BDE7C7C6B7|LXVR|nothing good|MUSI/MEOWSCAS's Partner, attempting to defend them|
+|B00F105719D38AB9<br>6CD07769D1E6C934|CODYLOVESVR/CODYISCODER|Mod Creater|1st Main Acc 2nd Steam Acc/in ArtificialGorillas|
+|19D2263304B76472|Ty/Tyrr|Mod Creater|Main Acc I think/in ArtificialGorillas|
+|637F3CE95093F98E|Striker|Mod Creater|Dum Dum/in ArtificialGorillas|
+|CA8FDFF42B7A1836|Awesome_Pheonix|Moderator|Main Acc but idk|
+|759274BD2C098B0B<br>8108E3A2926235FB|lethalshotgun/Shotgun|tester n crap|1st Steam 2nd Oculus I think|
+|CA8FDFF42B7A1836|Awesome_Pheonix|Moderator|Main Acc but idk|
